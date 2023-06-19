@@ -1,9 +1,9 @@
 body {
-  background-color: darkblue;
+  background-color: rgb(145, 77, 135);
 }
 
 #text {
-  background-color: black;
+  background-color: rgb(161, 54, 54);
   color: white;
   padding: 10px;
 }
